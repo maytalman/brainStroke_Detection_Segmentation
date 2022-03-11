@@ -1,1 +1,1 @@
-# brainStroke_Detection_Segmentation_with
+# Derin Öğrenme ile Beyin BT Görüntülerinden İnme Tespiti ve Segmentasyonu
