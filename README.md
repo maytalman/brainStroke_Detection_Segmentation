@@ -1,6 +1,6 @@
 
 # Derin Öğrenme ile Beyin BT Görüntülerinden İnme Tespiti ve Segmentasyonu
-
+<h4>Ebru Maytalman</h4>
 Beyin BT görüntülerinden oluşan bir veri setimizde, inme olmayan BT görüntüleri ile inmenin iki türü olan iskemik ve hemorojik(kanamalı) beyin BT görüntüleri bulunmaktadır.
 Bu projede bu veri setini kullanarak görüntüleri inme var, iskemik ve hemorojik olarak sınıflandırmayı amaçladık. Bu sebeple Resnet50, EfficientB5, VGG16, VGG19, InceptionResnet_V2 gibi Deep Learning modelleriyle çalıştık. En yüksek doğruluk oranını Resnet50 modelinde aldığımız için projede bu modeli kullandık.
 
